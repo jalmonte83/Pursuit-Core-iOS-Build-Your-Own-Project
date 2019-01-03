@@ -62,7 +62,7 @@ Own and build your own iOS app.
 [Jabeen]()  
 [Jane]()  
 [Jason]()  
-[Jeffrey]()  
+[Jeffrey](https://github.com/jalmonte83/RickAndMortyApp)  
 [Jevon]()  
 [Jian]()  
 [Jose]()  
